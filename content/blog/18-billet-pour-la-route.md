@@ -26,10 +26,10 @@ Demain, je prévois de prendre la traversière pour passer de l’autre côté d
 
 Après la route le réconfort, j’ai atterri en pleine campagne pas un bruit, le calme plat. Je suis arrivé à 17h15 et j’ai demandé au gérant si il y avait une balade à faire et il m’a conseillé un belvédère à découvrir. J’ai posé mes affaires, discuté un peu avec lui et je suis partir voir ce belvédère, il surplombe la rivière Restigouche qui représente la frontière naturelle entre la region du Québec et du nouveau Brunswick.
 
- [![Rivière Restigouche](img/845dce3f-be17-40ee-ba52-8fdfb0cb7f76.jpg?1680391616)](img/845dce3f-be17-40ee-ba52-8fdfb0cb7f76.jpg)
+ [![Rivière Restigouche](img/845dce3f-be17-40ee-ba52-8fdfb0cb7f76_IMGP.jpg?1680391616)](img/845dce3f-be17-40ee-ba52-8fdfb0cb7f76_IMGP.jpg)
 
 **Rivière Restigouche**
 
- [![Rivière Restigouche](img/37a16e7e-85d1-43e1-b7f6-e34720365954.jpg?1680391617)](img/jpg/37a16e7e-85d1-43e1-b7f6-e34720365954.jpg)
+ [![Rivière Restigouche](img/37a16e7e-85d1-43e1-b7f6-e34720365954_IMGP.jpg?1680391617)](img/jpg/37a16e7e-85d1-43e1-b7f6-e34720365954_IMGP.jpg)
 
 **Rivière Restigouche**
