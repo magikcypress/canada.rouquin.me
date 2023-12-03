@@ -10,11 +10,11 @@ Je suis bien arrivé à Montréal hier en fin d’apres midi, j’ai revue Ophel
 
 Aujourd’hui, je suis allé manger avec Mickaël au marché AtWater, une bonne assiette réunionnaise avec riz, lentilles, porc et poulet. Un délice !
 
- [![Farine Five Roses](IMG/359c5c5c-9fb3-41ec-be0a-254eededc76b.jpg?1680421668)](IMG/359c5c5c-9fb3-41ec-be0a-254eededc76b.jpg)
+ [![Farine Five Roses](img/359c5c5c-9fb3-41ec-be0a-254eededc76b.jpg?1680421668)](img/359c5c5c-9fb3-41ec-be0a-254eededc76b.jpg)
 
 **Farine Five Roses**
 
- [![Un pédalo canard](IMG/15b2cd02-76a8-4097-9b5d-2c6b8824308a.jpg?1680421670)](IMG/15b2cd02-76a8-4097-9b5d-2c6b8824308a.jpg)
+ [![Un pédalo canard](img/15b2cd02-76a8-4097-9b5d-2c6b8824308a.jpg?1680421670)](img/15b2cd02-76a8-4097-9b5d-2c6b8824308a.jpg)
 
 **Un pédalo canard**
 

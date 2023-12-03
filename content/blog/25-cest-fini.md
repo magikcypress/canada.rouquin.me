@@ -10,6 +10,6 @@ Je suis dans le taxi qui me ramène chez moi, il est 6h30 heure de Paris, 0h34 h
 
 Mais si tu lis ces lignes, je te conseille d’aller voir le Québec.
 
- [![Penjing du jardin botanique de Montréal](IMG/9f83aeb6-42df-4ae7-85fb-2e431e60b6ef.jpg?1680453809)](IMG/9f83aeb6-42df-4ae7-85fb-2e431e60b6ef.jpg)
+ [![Penjing du jardin botanique de Montréal](img/9f83aeb6-42df-4ae7-85fb-2e431e60b6ef.jpg?1680453809)](img/9f83aeb6-42df-4ae7-85fb-2e431e60b6ef.jpg)
 
 **Penjing du jardin botanique de Montréal**

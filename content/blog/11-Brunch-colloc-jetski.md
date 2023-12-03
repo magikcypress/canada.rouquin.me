@@ -8,7 +8,7 @@ tags:
 
 Hier, je suis parti faire un brunch à l’entre-pots rue Masson avec mon ancien coloc, sa copine Andreas, les parents d’Andreas et ses amis qui été en vacances ici depuis 15 jours. Nous avons bien mangé, pour moi brouillade d’oeufs avec salade.
 
- [![Maison dans le quartier du plateau](IMG/f8fac76b-c0f0-48c4-a479-dbff89592595.jpg?1659623980)](IMG/f8fac76b-c0f0-48c4-a479-dbff89592595.jpg)
+ [![Maison dans le quartier du plateau](img/f8fac76b-c0f0-48c4-a479-dbff89592595.jpg?1659623980)](img/f8fac76b-c0f0-48c4-a479-dbff89592595.jpg)
 
 **Maison dans le quartier du plateau**
 
